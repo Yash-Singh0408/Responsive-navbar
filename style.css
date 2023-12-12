@@ -119,8 +119,8 @@ a.active,a:hover{
     }
 
     a:hover,a.active{
-        background: none;
-        color: palevioletred;
+        background: rgb(139, 208, 167);
+        color: rgb(18, 124, 60);
     }
 
     #check:checked ~ ul{
